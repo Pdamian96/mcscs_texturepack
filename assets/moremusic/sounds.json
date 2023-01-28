@@ -1,0 +1,23 @@
+
+{
+    "music_disc.funk": {
+      "replace": false, 
+      "sounds": ["moremusic:records/funk"]
+    }, 
+    "music_disc.sp": {
+      "replace": false, 
+      "sounds": ["moremusic:records/sp"]
+    }, 
+    "music_disc.platforming": {
+      "replace": false, 
+      "sounds": ["moremusic:records/platforming"]
+    }, 
+    "effects.synth": {
+        "replace": false, 
+        "sounds": ["moremusic:effects/synth"]
+      }, 
+    "music_disc.rubedo": {
+      "replace": false, 
+      "sounds": ["moremusic:records/rubedo"]
+    }
+  }
